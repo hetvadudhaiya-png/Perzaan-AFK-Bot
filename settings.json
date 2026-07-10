@@ -1,14 +1,14 @@
 {
   "name": "SMP",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "SMP",
+    "password": "2449431207",
     "type": "offline"
   },
   "server": {
     "ip": "smp7.mcsh.io",
     "port": 25565,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -26,12 +26,10 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
-      "messages": [
-        "Join Discord for RANKS",
-      ]
+      "messages":
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -41,8 +39,7 @@
       "enabled": true,
       "min-interval": 20,
       "max-interval": 60
-    }
-  },
+   },
   "movement": {
     "enabled": true,
     "circle-walk": {
